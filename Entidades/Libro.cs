@@ -30,7 +30,6 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
             sb.Append(base.ToString());
             sb.AppendLine($"Número de páginas: {numPaginas}.");
-
             return sb.ToString();
         }
 
