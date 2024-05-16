@@ -6,7 +6,21 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Documento doc = new Documento("Libro 1", "Autor 1", 1990, "123", "barcode1");
+            Console.WriteLine(doc.Estado);
+            doc.AvanzarEstado();
+            Console.WriteLine(doc.Estado);
+            doc.AvanzarEstado(); 
+            Console.WriteLine(doc.Estado);
+            doc.AvanzarEstado();
+            Console.WriteLine(doc.Estado);
+            doc.AvanzarEstado();
+            Console.WriteLine(doc.Estado);
+            doc.AvanzarEstado();
+            Console.WriteLine(doc.Estado);
+            doc.AvanzarEstado();
+
+            Console.WriteLine(doc.ToString());
         }
     }
 }
