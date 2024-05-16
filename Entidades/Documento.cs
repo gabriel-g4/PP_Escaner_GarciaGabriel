@@ -87,9 +87,11 @@ namespace Entidades
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Titulo: {this.titulo}");
-            sb.AppendLine($"Autor: {this.autor}");
-            sb.AppendLine($"Año: {this.anio}");
+            sb.AppendLine($"Título: {titulo}");
+            sb.AppendLine($"Autor: {autor}");
+            sb.AppendLine($"Año: {anio}");
+            sb.AppendLine($"ISBN: {numNormalizado}");
+            sb.AppendLine($"Cód. de barras: {barcode}");
             return sb.ToString();
         }
         #endregion

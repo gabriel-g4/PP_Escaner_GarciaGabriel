@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\test\\test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,8 +22,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,37 +46,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Documento.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
               "RelativeDocumentMoniker": "Entidades\\Documento.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
               "RelativeToolTip": "Entidades\\Documento.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAQwFsAAAAvAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAADwvykAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:51:53.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Test\\Program.cs",
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAqAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:49:55.207Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
