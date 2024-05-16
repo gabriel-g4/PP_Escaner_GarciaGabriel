@@ -6,7 +6,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Documento doc = new Documento("Libro 1", "Autor 1", 1990, "123", "barcode1");
+            Libro doc = new Libro("Libro 1", "Autor 1", 1990, "123", "barcode1", 27);
             Console.WriteLine(doc.Estado);
             doc.AvanzarEstado();
             Console.WriteLine(doc.Estado);

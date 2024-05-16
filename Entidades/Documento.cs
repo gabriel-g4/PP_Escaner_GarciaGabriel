@@ -2,7 +2,7 @@
 
 namespace Entidades
 {
-    public  class Documento
+    public abstract class Documento
     {
         #region Atributos
         int anio;
