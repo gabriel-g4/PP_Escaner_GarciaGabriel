@@ -33,5 +33,41 @@ namespace Entidades
             return sb.ToString();
         }
 
+        public static bool operator ==(Libro A, Libro B)
+        {
+            if (A.Barcode == B.Barcode || 
+                A.ISBN == B.ISBN || 
+               (A.Titulo == B.Titulo && A.Autor == B.Autor))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+            // Forma alternativa, peor pero más legible
+            //if (A.Barcode == B.Barcode)
+            //{
+            //    return true;
+            //}
+            //else if (A.ISBN == B.ISBN)
+            //{
+            //    return true;
+            //}
+            //else if (A.Titulo == B.Titulo && A.Autor == B.Autor)
+            //{
+            //    return true;
+            //}
+            //else 
+            //{
+            //    return false;
+            //}
+        }
+
+        public static bool operator !=(Libro A, Libro B)
+        {
+            return !(A == B);
+        }
     }
 }
