@@ -39,6 +39,14 @@ namespace Test
 
             Console.WriteLine(mapa1 == mapa2);
 
+            Escaner e = new Escaner("Pirulo", Escaner.TipoDoc.mapa);
+            Console.WriteLine(e.Marca);
+            Console.WriteLine(e.Locacion);
+            Console.WriteLine(e.Tipo);
+            Console.WriteLine(e.ListaDocumentos);
+
+
+
         }
     }
 }
