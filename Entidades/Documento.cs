@@ -90,7 +90,10 @@ namespace Entidades
             sb.AppendLine($"Título: {titulo}");
             sb.AppendLine($"Autor: {autor}");
             sb.AppendLine($"Año: {anio}");
-            sb.AppendLine($"ISBN: {numNormalizado}");
+            if (numNormalizado != "-1")
+            {
+                sb.AppendLine($"ISBN: {numNormalizado}");
+            }
             sb.AppendLine($"Cód. de barras: {barcode}");
             return sb.ToString();
         }

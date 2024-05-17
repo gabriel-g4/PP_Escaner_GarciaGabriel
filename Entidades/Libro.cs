@@ -8,14 +8,19 @@ namespace Entidades
 {
     public class Libro : Documento
     {
+        #region Atributos
         int numPaginas;
+        #endregion
 
+        #region Constructores
         public Libro(string titulo, string autor, int anio, string numNormalizado, string barcode, int numPaginas)
             : base (titulo, autor, anio, numNormalizado, barcode)
         {
             this.numPaginas = numPaginas;
         }
+        #endregion
 
+        #region Propiedades
         public string ISBN
         {
             get => NumNormalizado;
@@ -25,6 +30,9 @@ namespace Entidades
         {
             get => numPaginas;
         }
+        #endregion
+
+        #region Métodos
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
@@ -32,7 +40,10 @@ namespace Entidades
             sb.AppendLine($"Número de páginas: {numPaginas}.");
             return sb.ToString();
         }
+        #endregion
 
+
+        #region Operadores
         public static bool operator ==(Libro A, Libro B)
         {
             if (A.Barcode == B.Barcode || 
@@ -45,29 +56,12 @@ namespace Entidades
             {
                 return false;
             }
-
-            // Forma alternativa, peor pero más legible
-            //if (A.Barcode == B.Barcode)
-            //{
-            //    return true;
-            //}
-            //else if (A.ISBN == B.ISBN)
-            //{
-            //    return true;
-            //}
-            //else if (A.Titulo == B.Titulo && A.Autor == B.Autor)
-            //{
-            //    return true;
-            //}
-            //else 
-            //{
-            //    return false;
-            //}
         }
 
         public static bool operator !=(Libro A, Libro B)
         {
             return !(A == B);
         }
+        #endregion
     }
 }
