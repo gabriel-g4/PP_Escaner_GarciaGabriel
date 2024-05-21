@@ -23,8 +23,8 @@ namespace Test
 
             Console.WriteLine(libro1 == libro2);
 
-            Mapa mapa1 = new Mapa("Mapa1", "Autor1", 1990, "123", 20, 30);
-            Mapa mapa2 = new Mapa("Mapa2", "Autor2", 2000, "456", 30, 40);
+            Mapa mapa1 = new Mapa("Mapa1", "Autor1", 1990, "nN", "123", 20, 30);
+            Mapa mapa2 = new Mapa("Mapa2", "Autor2", 2000, "nN", "456", 30, 40);
 
             for (int i = 0; i < 6; i++)
             {

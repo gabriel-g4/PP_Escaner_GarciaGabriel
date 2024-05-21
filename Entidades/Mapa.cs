@@ -15,7 +15,7 @@ namespace Entidades
         #endregion
 
         #region Constructores
-        public Mapa(string titulo, string autor, int anio, string barcode, int alto, int ancho)
+        public Mapa(string titulo, string autor, int anio, string numNormalizado, string barcode, int alto, int ancho)
             : base(titulo, autor, anio, "-1", barcode)
         {
             this.alto = alto;

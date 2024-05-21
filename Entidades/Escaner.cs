@@ -60,7 +60,7 @@ namespace Entidades
         {
             get => tipo;
         }
-        #endregion
+        #endregion  b b 
 
         #region Operadores
 
