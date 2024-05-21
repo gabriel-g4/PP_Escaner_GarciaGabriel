@@ -46,6 +46,7 @@ namespace Entidades
         #region Operadores
         public static bool operator ==(Libro A, Libro B)
         {
+            Console.WriteLine("Entro en el igual de libro");
             if (A.Barcode == B.Barcode || 
                 A.ISBN == B.ISBN || 
                (A.Titulo == B.Titulo && A.Autor == B.Autor))

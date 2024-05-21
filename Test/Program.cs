@@ -75,6 +75,9 @@ namespace Test
                 Console.WriteLine(d);
             }
 
+            Console.WriteLine(libroNuevo.Estado);
+            Console.WriteLine(e.CambiarEstadoDocumento(libroNuevo));
+            Console.WriteLine(libroNuevo.Estado);
 
 
         }

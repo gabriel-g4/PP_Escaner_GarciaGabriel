@@ -62,6 +62,22 @@ namespace Entidades
         }
         #endregion
 
+        #region Métodos
+
+        public bool CambiarEstadoDocumento(Documento d)
+        {
+            if (this == d)
+            {
+                d.AvanzarEstado();
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+        #endregion
+
         #region Operadores
 
         public static bool operator ==(Escaner e, Documento d)
@@ -88,6 +104,17 @@ namespace Entidades
             }
 
             return false;
+
+            //foreach (Documento docElement in e.listaDocumentos)
+            //{
+            //    if (docElement == d)
+            //    {
+            //        return true;
+            //    }
+            //}
+
+
+            //return false;
         }
 
         public static bool operator !=(Escaner e, Documento d)
