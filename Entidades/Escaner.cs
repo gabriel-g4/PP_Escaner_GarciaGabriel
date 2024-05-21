@@ -60,17 +60,30 @@ namespace Entidades
         {
             get => tipo;
         }
-        #endregion  b b 
+        #endregion
 
         #region Operadores
 
         public static bool operator ==(Escaner e, Documento d)
         {
-            foreach (Documento docElement in e.ListaDocumentos)
+            if (e.Tipo == TipoDoc.mapa) //&& d.GetType() == typeof(Mapa))
             {
-                if (docElement == d)
+                foreach (Documento docElement in e.listaDocumentos)
                 {
-                    return true;
+                    if ((Mapa)docElement == (Mapa)d)
+                    {
+                        return true;
+                    }
+                }
+            }
+            else
+            {
+                foreach (Documento docElement in e.listaDocumentos)
+                {
+                    if ((Libro)docElement == (Libro)d)
+                    {
+                        return true;
+                    }
                 }
             }
 
@@ -82,6 +95,18 @@ namespace Entidades
             return !(e == d);
         }
 
+
+        public static bool operator +(Escaner e, Documento d)
+        {
+            if (e != d && d.Estado == Documento.Paso.Inicio)
+            {
+                d.AvanzarEstado();
+                e.listaDocumentos.Add(d);
+                return true;
+            }
+
+            return false;
+        }
         #endregion
 
     }
