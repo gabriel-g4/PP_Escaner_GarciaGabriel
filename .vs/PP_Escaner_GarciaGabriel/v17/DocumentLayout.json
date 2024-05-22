@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,19 +37,6 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Documento.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
-              "RelativeDocumentMoniker": "Entidades\\Documento.cs",
-              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
-              "RelativeToolTip": "Entidades\\Documento.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAAwFwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T16:20:12.58Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
@@ -59,20 +46,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
+              "RelativeDocumentMoniker": "Entidades\\Documento.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
+              "RelativeToolTip": "Entidades\\Documento.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAwFwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:20:12.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Informes.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Informes.cs",
               "RelativeDocumentMoniker": "Entidades\\Informes.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Informes.cs",
               "RelativeToolTip": "Entidades\\Informes.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T02:15:09.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Mapa.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Mapa.cs",
               "RelativeDocumentMoniker": "Entidades\\Mapa.cs",
@@ -80,25 +79,24 @@
               "RelativeToolTip": "Entidades\\Mapa.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:18:54.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T16:18:54.426Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Escaner.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Escaner.cs",
               "RelativeDocumentMoniker": "Entidades\\Escaner.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Escaner.cs",
               "RelativeToolTip": "Entidades\\Escaner.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAowE8AAAAAAAAA",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAswE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T13:39:36.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Libro.cs",
               "RelativeDocumentMoniker": "Entidades\\Libro.cs",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "Entidades\\Libro.cs",
               "ViewState": "AQIAACYAAAAAAAAAAADwv0MAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:28:37.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T17:28:37.697Z"
             },
             {
               "$type": "Document",
@@ -117,7 +114,7 @@
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAgwDcAAAAsAAAA",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAgwHkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:49:55.207Z",
               "EditorCaption": ""
