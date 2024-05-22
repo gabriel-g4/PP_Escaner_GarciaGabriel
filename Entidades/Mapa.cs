@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Numerics;
 using System.Text;
@@ -18,8 +19,10 @@ namespace Entidades
         public Mapa(string titulo, string autor, int anio, string numNormalizado, string barcode, int alto, int ancho)
             : base(titulo, autor, anio, "-1", barcode)
         {
-            this.alto = alto;
-            this.ancho = ancho;
+            this.alto = (alto < 0) ? 0 : alto;
+            this.ancho = (ancho < 0) ? 0 : ancho;
+            //this.alto = (alto < 0) ? alto * -1 : alto;
+            //this.ancho = (ancho < 0) ? ancho * -1 : ancho;
         }
         #endregion
 

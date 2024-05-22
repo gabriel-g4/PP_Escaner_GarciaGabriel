@@ -16,7 +16,7 @@ namespace Entidades
         public Libro(string titulo, string autor, int anio, string numNormalizado, string barcode, int numPaginas)
             : base (titulo, autor, anio, numNormalizado, barcode)
         {
-            this.numPaginas = numPaginas;
+            this.numPaginas = (numPaginas < 0) ? 0 : numPaginas;
         }
         #endregion
 
