@@ -21,7 +21,7 @@ namespace Entidades
             
             if (e.Tipo == Escaner.TipoDoc.mapa)
             {
-                foreach (Mapa m in e.ListaDocumentos)
+                foreach (Mapa m in e.ListaDocumentos.Cast<Mapa>())
                 {
                     if (m.Estado == estado)
                     {
@@ -33,7 +33,7 @@ namespace Entidades
             }
             else
             {
-                foreach (Libro l in e.ListaDocumentos)
+                foreach (Libro l in e.ListaDocumentos.Cast<Libro>())
                 {
                     if (l.Estado == estado)
                     {

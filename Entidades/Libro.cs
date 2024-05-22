@@ -48,7 +48,7 @@ namespace Entidades
         {
             if (A.Barcode == B.Barcode || 
                 A.ISBN == B.ISBN || 
-               (A.Titulo == B.Titulo && A.Autor == B.Autor))
+                    (A.Titulo == B.Titulo && A.Autor == B.Autor))
             {
                 return true;
             }

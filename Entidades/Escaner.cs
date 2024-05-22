@@ -82,7 +82,7 @@ namespace Entidades
 
         public static bool operator ==(Escaner e, Documento d)
         {
-            if (e.Tipo == TipoDoc.mapa) //&& d.GetType() == typeof(Mapa))
+            if (e.Tipo == TipoDoc.mapa && d.GetType() == typeof(Mapa))
             {
                 foreach (Documento docElement in e.listaDocumentos)
                 {
@@ -92,7 +92,7 @@ namespace Entidades
                     }
                 }
             }
-            else
+            else if (e.Tipo == TipoDoc.libro && d.GetType() == typeof(Libro))
             {
                 foreach (Documento docElement in e.listaDocumentos)
                 {
