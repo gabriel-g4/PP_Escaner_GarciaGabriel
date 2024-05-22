@@ -90,7 +90,7 @@ namespace Entidades
             sb.AppendLine($"Título: {titulo}");
             sb.AppendLine($"Autor: {autor}");
             sb.AppendLine($"Año: {anio}");
-            if (numNormalizado != "-1")
+            if (numNormalizado != "no tiene")
             {
                 sb.AppendLine($"ISBN: {numNormalizado}");
             }
