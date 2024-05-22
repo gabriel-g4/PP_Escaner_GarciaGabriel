@@ -24,22 +24,22 @@ namespace Test
 
             //Console.WriteLine(libro1 == libro2);
 
-            Mapa mapa1 = new Mapa("Mapa1", "Autor1", 1990, "nN", "123", 20, 30);
-            Mapa mapa2 = new Mapa("Mapa2", "Autor2", 2000, "nN", "456", 30, 40);
+            //Mapa mapa1 = new Mapa("Mapa1", "Autor1", 1990, "nN", "123", 20, 30);
+            //Mapa mapa2 = new Mapa("Mapa2", "Autor2", 2000, "nN", "456", 30, 40);
             
 
-            for (int i = 0; i < 6; i++)
-            {
-                Console.WriteLine(mapa1.Estado);
-                mapa1.AvanzarEstado();
-            }
+            //for (int i = 0; i < 6; i++)
+            //{
+            //    Console.WriteLine(mapa1.Estado);
+            //    mapa1.AvanzarEstado();
+            //}
 
-            Console.WriteLine();
-            Console.WriteLine(mapa1.ToString());
-            Console.WriteLine();
-            Console.WriteLine(mapa2.ToString());
+            //Console.WriteLine();
+            //Console.WriteLine(mapa1.ToString());
+            //Console.WriteLine();
+            //Console.WriteLine(mapa2.ToString());
 
-            Console.WriteLine(mapa1 == mapa2);
+            //Console.WriteLine(mapa1 == mapa2);
 
 
             //Console.WriteLine(e.Marca);
@@ -70,14 +70,31 @@ namespace Test
             Console.WriteLine("NUEVO 2");
             Console.WriteLine(e+libroNuevo2);
 
-            foreach (Documento d in e.ListaDocumentos)
-            {
-                Console.WriteLine(d);
-            }
+            //foreach (Documento d in e.ListaDocumentos)
+            //{
+            //    Console.WriteLine(d);
+            //}
 
             Console.WriteLine(libroNuevo.Estado);
             Console.WriteLine(e.CambiarEstadoDocumento(libroNuevo));
             Console.WriteLine(libroNuevo.Estado);
+            Console.WriteLine(e.CambiarEstadoDocumento(libroNuevo2));
+
+            Console.WriteLine("DISTRIBUIDOS");
+            Informes.MostrarDistribuidos(e, out int extension, out int cantidad, out string resumen);
+            Console.WriteLine($"{extension}\n{cantidad}\n{resumen}");
+
+            Console.WriteLine("EN ESCANER");
+            Informes.MostrarEnEscaner(e, out extension, out cantidad, out resumen);
+            Console.WriteLine($"{extension}\n{cantidad}\n{resumen}");
+
+            Console.WriteLine("EN REVISION");
+            Informes.MostrarEnRevision(e, out extension, out cantidad, out resumen);
+            Console.WriteLine($"{extension}\n{cantidad}\n{resumen}");
+
+            Console.WriteLine("TERMINADOS");
+            Informes.MostrarTerminados(e, out extension, out cantidad, out resumen);
+            Console.WriteLine($"{extension}\n{cantidad}\n{resumen}");
 
 
         }
