@@ -125,7 +125,10 @@ namespace Entidades
 
         public static bool operator +(Escaner e, Documento d)
         {
-            if (e != d && d.Estado == Documento.Paso.Inicio)
+            if (e != d &&
+                d.Estado == Documento.Paso.Inicio &&
+                    ((e.Tipo == TipoDoc.libro && d.GetType() == typeof(Libro)) ||
+                    (e.Tipo == TipoDoc.mapa && d.GetType() == typeof(Mapa))))
             {
                 d.AvanzarEstado();
                 e.listaDocumentos.Add(d);

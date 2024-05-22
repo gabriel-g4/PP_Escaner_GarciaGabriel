@@ -26,7 +26,7 @@ namespace Test
 
             //Mapa mapa1 = new Mapa("Mapa1", "Autor1", 1990, "nN", "123", 20, 30);
             //Mapa mapa2 = new Mapa("Mapa2", "Autor2", 2000, "nN", "456", 30, 40);
-            
+
 
             //for (int i = 0; i < 6; i++)
             //{
@@ -64,11 +64,11 @@ namespace Test
             Libro libroCopia = new Libro("Libro copia", "Autor", 1990, "isbn", "123", 200);
             Libro libroNuevo2 = new Libro("Libro nuevo 2", "Autor", 1990, "isbn2", "12356", 200);
             Console.WriteLine("NUEVO 1");
-            Console.WriteLine(e+libroNuevo);
+            Console.WriteLine(e + libroNuevo);
             Console.WriteLine("COPIA");
-            Console.WriteLine(e+libroCopia);
+            Console.WriteLine(e + libroCopia);
             Console.WriteLine("NUEVO 2");
-            Console.WriteLine(e+libroNuevo2);
+            Console.WriteLine(e + libroNuevo2);
 
             //foreach (Documento d in e.ListaDocumentos)
             //{
