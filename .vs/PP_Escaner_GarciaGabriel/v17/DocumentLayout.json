@@ -7,24 +7,27 @@
       "RelativeMoniker": "D:0:0:{58730C54-73B0-4EDD-8743-DC0D4FB9D1FE}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\informes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\escaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gabriel\\Desktop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\pp_escaner_garciagabriel\\entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6F9C9C-07AB-4A2E-8A0E-9FEC0F2E902F}|Entidades\\Entidades.csproj|solutionrelative:entidades\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +49,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T17:15:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Documento.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Documento.cs",
               "RelativeDocumentMoniker": "Entidades\\Documento.cs",
@@ -58,13 +74,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Informes.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Informes.cs",
               "RelativeDocumentMoniker": "Entidades\\Informes.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Informes.cs",
               "RelativeToolTip": "Entidades\\Informes.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wCkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T02:15:09.439Z",
               "EditorCaption": ""
@@ -77,34 +93,36 @@
               "RelativeDocumentMoniker": "Entidades\\Mapa.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Mapa.cs",
               "RelativeToolTip": "Entidades\\Mapa.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T16:18:54.426Z"
+              "WhenOpened": "2024-05-21T16:18:54.426Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Escaner.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Escaner.cs",
               "RelativeDocumentMoniker": "Entidades\\Escaner.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Escaner.cs",
               "RelativeToolTip": "Entidades\\Escaner.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAswE8AAAAAAAAA",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAswE8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T13:39:36.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Libro.cs",
               "RelativeDocumentMoniker": "Entidades\\Libro.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Entidades\\Libro.cs",
               "RelativeToolTip": "Entidades\\Libro.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAADwv0MAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T17:28:37.697Z"
+              "WhenOpened": "2024-05-21T17:28:37.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,7 +132,7 @@
               "RelativeDocumentMoniker": "Test\\Program.cs",
               "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PP_Escaner_GarciaGabriel\\Test\\Program.cs",
               "RelativeToolTip": "Test\\Program.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAgwHkAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwJoAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T20:49:55.207Z",
               "EditorCaption": ""

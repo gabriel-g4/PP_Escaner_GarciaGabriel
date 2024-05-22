@@ -27,7 +27,7 @@ namespace Entidades
                     {
                         extension += m.Superficie;
                         cantidad++;
-                        sb.AppendLine(m.ToString());
+                        sb.Append(m.ToString());
                     }
                 }
             }
@@ -39,7 +39,7 @@ namespace Entidades
                     {
                         extension += l.NumPaginas;
                         cantidad++;
-                        sb.AppendLine(l.ToString());
+                        sb.Append(l.ToString());
                     }
                 }
             }
