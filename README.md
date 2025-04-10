@@ -1,12 +1,4 @@
-<style> img {
-    margin: 0 auto;
-    display: block;
-}
-</style>
-
-
 <img alt="imagen de portada utn-fra" src="./images/portada%20utn-fra.png" style="margin: 25px auto;">
-
 
 <h1 style="text-align:center"> <p> PP - LABORATORIO II </p> 1er CUATRIMESTRE 2024</h1>
 
